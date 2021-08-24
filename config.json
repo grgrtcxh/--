@@ -1,0 +1,14 @@
+{
+    "entry": "scripts/plane1.lua",
+    "package": {
+        "path": [
+           
+        ],
+        "cpath": [
+
+        ]
+    },
+    "command": [
+        
+    ]
+}
